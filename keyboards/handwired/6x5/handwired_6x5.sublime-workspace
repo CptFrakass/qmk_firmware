@@ -1,0 +1,403 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"COR",
+				"CORRESPROP"
+			],
+			[
+				"CORR",
+				"CORPROP"
+			],
+			[
+				"TEXT",
+				"TEXTM"
+			],
+			[
+				"_",
+				"_MOD"
+			],
+			[
+				"RE",
+				"RESEAU"
+			],
+			[
+				"COT",
+				"COTANGLE"
+			],
+			[
+				"ima",
+				"image_data"
+			],
+			[
+				"i",
+				"import"
+			],
+			[
+				"load",
+				"loadSingleImage"
+			],
+			[
+				"image",
+				"image_data"
+			],
+			[
+				"im",
+				"in_image"
+			],
+			[
+				"in",
+				"in_image"
+			],
+			[
+				"Pr",
+				"print"
+			],
+			[
+				"get",
+				"getcolorValue"
+			],
+			[
+				"value",
+				"ValueError"
+			],
+			[
+				"Bright",
+				"BRIGHT"
+			],
+			[
+				"lo",
+				"loading"
+			],
+			[
+				"color",
+				"color_value"
+			],
+			[
+				"seque",
+				"sequencelength"
+			],
+			[
+				"el",
+				"elapsedtime"
+			],
+			[
+				"sta",
+				"starterValue"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 300.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/programming/Claviers/qmk_firmware-master",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/handwired/6x5"
+	],
+	"file_history":
+	[
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/handwired/6x5/6x5.c",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/handwired/6x5/config.h",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/handwired/6x5/keymaps/default/config.h",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/handwired/6x5/keymaps/default/keymap-2.c",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/infinity60/keymaps/default/keymap.c",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/infinity60/keymaps/depariel/keymap.c",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/6ball/keymaps/default/keymap.c",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/9key/keymaps/default/keymap.c",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/planck/keymaps/impossible/keymap.c",
+		"/N/1. documents/1. perso/mdp/02ACHAT-VENTE.nf0",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/handwired/6x5/keymaps/default/keymap.c",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/handwired/6x5/6x4.h",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/handwired/6x5/6x4.c",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/handwired/6x4_old/config.h",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/handwired/6x4_old/6x4.h",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/handwired/6x4_old/6x4.c",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/handwired/6x4/keymaps/default/keymap.c",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/handwired/6x4/6x4.c",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/handwired/6x4/6x4.h",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/handwired/6x4/config.h",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/handwired/6x4/rules.mk",
+		"/N/1. documents/1. perso/mdp/01mail.nf0",
+		"/N/1. documents/3. Maman/banque/CM.info",
+		"/N/1. documents/1. perso/mdp/00.nf0",
+		"/N/1. documents/1. perso/mdp/mdp samba",
+		"/N/1. documents/1. perso/mdp/passcalc list",
+		"/G/documents/00.nfo",
+		"/N/1. documents/1. perso/mdp/rdc.nf0",
+		"/K/documents/perso/usb.nf0",
+		"/K/documents/divers/Juristerie traduction",
+		"/K/documents/divers/pros and cons of my distros",
+		"/K/documents/divers/trucs",
+		"/K/documents/divers/Some_Passwords",
+		"/K/documents/divers/relev__ de compte",
+		"/N/1. documents/3. Maman/00.nf0",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/9key/config.h",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/9key/rules.mk",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/9key/info.json",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/9key/9key.h",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/9key/9key.c",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/5x5/keymaps/default/config.h",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/5x5/readme.md",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/9key/readme.md",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/4x4/readme.md",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/4x4/rules.mk",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/4x4/config.h",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/4x4/4x4.h",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/4x4/4x4.c",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/handwired/6x4_old/readme.md",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/handwired/6x4_old/rules.mk",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/handwired/6x4_old/keymaps/default/keymap.c",
+		"/N/1. documents/10. CMMF/03 site/wix.nf0",
+		"/N/1. documents/1. perso/mdp/ggl.nf0",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/handwired/6x4/keymaps/default/config.h",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/5x5/keymaps/default/keymap.c",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/handwired/fivethirteen/keymaps/default/keymap.c",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/handwired/fivethirteen/config.h",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/6x4/6x4.c",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/6x4/6x4.h",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/6x4/config.h",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/6x4/keymaps/default/keymap.c",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/9key/keymaps/default/rules.mk",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/6x4/rules.mk",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/5x5/config.h",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/5x5/5x5.h",
+		"/F/programming/Claviers/qmk_firmware-master/quantum/config_common.h",
+		"/F/programming/Claviers/qmk_configurator-master/deploy.sh",
+		"/F/programming/Claviers/qmk_configurator-master/README.md",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/6x4/5x5.c",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/handwired/frenchdev/keymaps/default/readme.md",
+		"/F/programming/Claviers/qmk_firmware-master/readme.md",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/planck/config.h",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/planck/keymaps/austin/keymap.c",
+		"/F/programming/Claviers/qmk_firmware-master/docs/hand_wire.md",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/handwired/fivethirteen/README.md",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/handwired/fivethirteen/fivethirteen.h",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/handwired/fivethirteen/rules.mk",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/handwired/fivethirteen/fivethirteen.c",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/handwired/numpad20/config.h",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/handwired/numpad20/readme.md",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/handwired/numpad20/numpad20.h",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/handwired/numpad20/numpad20.c",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/readme.md",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/6x4/keymaps/default/config.h",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/4x4/keymaps/default/config.h",
+		"/F/programming/Claviers/qmk_firmware-master/keyboards/4x4/keymaps/default/keymap.c",
+		"/N/1. documents/1. perso/mdp/wix.nf0",
+		"/N/1. documents/3. Maman/banque/credit maritime",
+		"/N/1. documents/10. CMMF/011. banque/transferwise/transferwise",
+		"/N/1. documents/12 hervé/00.nf0",
+		"/N/1. documents/1. perso/mdp/ANTS.nf0",
+		"/N/1. documents/1. perso/mdp/laposte.nf0",
+		"/N/1. documents/1. perso/moto/MDM/mdm.nf0",
+		"/N/1. documents/1. perso/mdp/geofoncier.nf0",
+		"/N/1. documents/1. perso/Achat - Ventes/bosch bleu/certif garantie/bosch",
+		"/N/1. documents/1. perso/mdp/impots",
+		"/N/1. documents/10. CMMF/02. Projets/05. attaches VINCI/vinci sis-id",
+		"/N/1. documents/3. Maman/banque/credit mutuel/CM00.info",
+		"/N/1. documents/3. Maman/pisany/solaire/edfprod.00nf0",
+		"/F/programming/Ergodox/firmware/MDErgo1-Default-604b1a1ca5cd23b8df6dd1771431c7e3/left_kll.json",
+		"/N/1. documents/3. Maman/Locations/commercial/electricité BX88/engie.nf0",
+		"/N/1. documents/10. CMMF/01. Administratif/00.nf0",
+		"/N/1. documents/3. Maman/CMMF/CA.nf0",
+		"/N/1. documents/3. Maman/PROCEDURES/MUTP Liquidation/PAQUOT/paquot.nf0",
+		"/N/1. documents/3. Maman/achats/bruneau.nf0",
+		"/C/Users/Nico/Documents/abreviations autocad",
+		"/N/1. documents/1. perso/mdp/mapalist.nf0",
+		"/N/1. documents/1. perso/mdp/EBP.nf0",
+		"/E/serien/EN/Game of Thrones/s8/Game.of.Thrones.S08E06.1080p.WEB.H264-MEMENTO[rarbg]/RARBG_DO_NOT_MIRROR.exe",
+		"/N/1. documents/3. Maman/CESU/CESU - PE.nf0",
+		"/E/recup MUTP/recuva pro simple doc/Table_Indicepro_bdm_fr.xls",
+		"/E/recup MUTP/recuva pro simple doc/[001460].pdf",
+		"/E/recup MUTP/Users/valerie/Documents/BON DE LOCATION_1.docx",
+		"/N/1. documents/3. Maman/CER/saurclient.nf0",
+		"/N/1. documents/1. perso/mdp/funmarten.nf0",
+		"/F/ahk scripts/ergodox.ahk",
+		"/F/ahk scripts/ergodox-V-2.ahk",
+		"/N/1. documents/1. perso/mdp/ACHAT-VENTE.nf0",
+		"/N/1. documents/1. perso/mdp/misterauto.nf0",
+		"/N/1. documents/1. perso/mdp/Li.nf0",
+		"/N/1. documents/1. perso/mdp/LBC.nf0",
+		"/N/1. documents/1. perso/mdp/ebay",
+		"/N/1. documents/1. perso/mdp/linkedIn.nf0",
+		"/N/1. documents/1. perso/mdp/LPV.nf0",
+		"/N/1. documents/1. perso/mdp/mail.nf0",
+		"/N/1. documents/3. Maman/achats/00.nf0",
+		"/N/1. documents/11. CMP/gmail.nf0",
+		"/N/1. documents/3. Maman/pisany/lbc/lbc.nf0"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "handwired_6x5.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
